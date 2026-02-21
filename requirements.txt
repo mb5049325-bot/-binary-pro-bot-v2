@@ -1,0 +1,7 @@
+asyncio
+pandas
+numpy
+requests
+scikit-learn
+tensorflow
+python-dotenv
